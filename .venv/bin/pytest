@@ -1,4 +1,4 @@
-#!/Users/jacobchoi/projects/courses/python/ten-thousand/.venv/bin/python3.9
+#!/Users/bishalkhanal/Desktop/codefellows-401/ten-thousand/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
